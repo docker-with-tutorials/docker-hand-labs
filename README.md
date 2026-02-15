@@ -1,3 +1,9 @@
+<p align="center"><strong>Built hand labs by developers, for developers.</strong></p>
+
+<p align="center">
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/fa5f4438-9809-4045-b80d-6c3bb3ebf070" />
+</p>
+
 # Docker Hands-On Labs
 
 Docker Hands-On Labs is a repository focused on practical exercises designed to reinforce Docker concepts through direct experimentation.
